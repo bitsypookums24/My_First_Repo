@@ -1,0 +1,49 @@
+html {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.button {
+    display:inline-block;
+    background-color: #eb4848;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15pt;
+    padding: 10px;
+}
+
+nav {
+    background-color: #ff9292;
+    border-width: 5pt;
+    border-color: #000000;
+}
+
+.left {
+    display: inline-block;
+    width: 29%;
+    background-color: #b9b9b9;
+    height: 700px;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+.pic {
+    text-align:center;
+    padding: 20px;
+    background-color: white;
+}
+
+.right {
+    display: inline-block;
+    width: 69%;
+    background-color: orange;
+    height: 700px;
+    margin-top: 20px;
+}
+
+.naked {
+    width: 75%;
+}
+
+.costumes {
+    width: 200px;
+}
